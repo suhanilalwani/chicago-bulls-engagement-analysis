@@ -30,6 +30,7 @@ first 2 weeks of October when interest spikes annually
 Player Milestone Events: Monitor for individual
 performance milestones — these generate the largest
 residual spikes exceeding seasonal patterns by ~140%
+
 Tools & Methods
 
 Python (pandas, matplotlib, statsmodels) · MySQL ·
